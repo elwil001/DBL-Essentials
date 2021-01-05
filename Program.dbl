@@ -6,4 +6,6 @@ main
 
 proc
 
+	stop
+
 endmain
